@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/abandonrules/MyFirstProject/_apis/build/status/First-Java.CI?branchName=master)](https://dev.azure.com/abandonrules/MyFirstProject/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
